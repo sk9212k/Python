@@ -231,7 +231,7 @@ for x in range(10):
 
 
 for x in range(10):
-    print(x,end = ",") 
+    print(x,end = ",") #this will , to the ending
 
 
 
